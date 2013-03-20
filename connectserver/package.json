@@ -1,0 +1,15 @@
+{
+  "name": "wtwhours",
+  "version": "0.0.0",
+  "description": "track hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/spec"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "connect": "~2.7.3"
+  }
+}
